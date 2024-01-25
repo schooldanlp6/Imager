@@ -16,7 +16,7 @@ Legend:
 
 `❌` Flashing Back-End
 
-`❌` App Installer
+`🚧` App Installer
 
 `❔` Tauri Port
 
